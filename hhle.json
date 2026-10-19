@@ -1,0 +1,139 @@
+{
+    "activity": {
+        "tip": "全部运行完再看任务完成度\n---------------\n一个手机不能运行超过三个账号\n---------------\n由于任务更新速度快推荐ck版",
+        "vvv": 1,
+        "shortcut": "",
+        "list": [
+            "❤️开始任务❤️",
+            "双十一超级红包入口"
+        ],
+        "mapping": {
+            "活动入口在淘宝的直播": {
+                "url": "taobao://"
+            },
+            "也可以搜索【红包花花乐】进入": {
+                "url": "taobao://"
+            },
+            "双十一超级红包入口": {
+                "url": "taobao://m.tb.cn/h.j1ZWQFw"
+            },
+            "❤️开始任务❤️": {
+                "type": "task",
+                "key": [
+                    "赚话费"
+                ]
+            }
+        },
+        "taskList": [
+            "赚话费"
+        ]
+    },
+    "taskData": {
+        "tag": "zhuanhuafei",
+        "common": {
+            "url": "https://cdn.jsdelivr.net/gh/hshuijin/shuang11-task@main/tbhuahuale.txt"
+        },
+        "赚话费": {
+            "type": "task1",
+            "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+            "main": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+            "endMessage": "种树任务结束",
+            "task": {
+                "tag": "zhuanhuafei",
+                "scheme": "taobao://m.taobao.com/tbopen/index.html?h5Url=",
+                "baseurl": "://h5.m.taobao.com/taolive/video.html?livesource=platformtask.liulan_huntou&needRecommend=true&sLaunch=0&sKeep=1&sModuleName=taolive&spm=&content=6f2f0b67c1d6c1dd27a0ff5c3cd557ed&forceRefresh=true&tl_sceneId=9647&tl_deliveryId=占位参数1&tl_action=commonLiveBrowse&targetAliveId=2299&needCompleteConsecutively=0",
+                "wait": 18,
+                "wait2": "",
+                "param": {
+                    "商品定位": [
+                        "nike",
+                        "anta",
+                        "adidas",
+                        "chanel",
+                        "dior",
+                        "biotherm",
+                        "oppo"
+                    ]
+                },
+                "before": [],
+                "easy": [
+                    {
+                        "wait": 18,
+                        "url": "://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?sceneId=9647&q=iphone",
+                        "ids": [
+                            "102235",
+                            "101539",
+                            "97864",
+                            "98463",
+                            "106077",
+                            "97908",
+                            "98122",
+                            "106577",
+                            "98157",
+                            "106079",
+                            "106080",
+                            "106078"
+                        ]
+                    }
+                ],
+                "item": [
+                    "107465",
+                    "107465",
+                    "107465",
+                    "107465",
+                    "107465",
+                    "107465",
+                    "107465",
+                    "107465",
+                    "107465",
+                    "107465",
+                    "107466",
+                    "107466",
+                    "107466",
+                    "107466",
+                    "107466",
+                    "107466",
+                    "107466",
+                    "107466",
+                    "107466",
+                    "107466",
+                    "101342",
+                    "101342",
+                    "101342",
+                    "107659",
+                    "107659",
+                    "107659",
+                    "107660",
+                    "107660",
+                    "107660",
+                    "107661",
+                    "107661",
+                    "107661",
+                    "107662",
+                    "107662",
+                    "107662",
+                    "107781",
+                    "107663",
+                    "107663",
+                    "107663",
+                    "107664",
+                    "107664",
+                    "107664",
+                    "107665",
+                    "107665",
+                    "107665",
+                    "98676",
+                    "107782",
+                    "98679",
+                    "107783",
+                    "98680",
+                    "107784",
+                    "98684",
+                    "107785",
+                    "107829",
+                    "107828"
+                ]
+            }
+        }
+    }
+}

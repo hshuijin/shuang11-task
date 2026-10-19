@@ -5,8 +5,7 @@
         "shortcut": "",
         "list": [
             "❤️开始1111任务❤️",
-            "超级红包入口",
-            "❤️购物车红包"
+            "超级红包入口"
         ],
         "mapping": {
             "❤️购物车红包": {
@@ -29,7 +28,7 @@
     "taskData": {
         "tag": "zhuanhuafei",
         "common": {
-            "url": "https://raw.gitcode.com/jiutiao/TTTASK/raw/master/src/taobao/test/tb.txt"
+            "url": "https://cdn.jsdelivr.net/gh/hshuijin/shuang11-task@main/tb.txt"
         },
         "赚话费": {
             "type": "task1",
